@@ -1,16 +1,13 @@
-# quicker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## QuickER by Demonte Walker 🌌
+This project features:
+- HTML
+- CSS
+- JavaScript
+- Three.js
+- Audio Visualization 
+- Audio Input
+- File Select
+- Music Playlist
+  
+## Summary 📝
+The development of QuickER aimed to streamline the emergency room (ER) experience for patients and healthcare providers. The project focused on reducing wait times, improving patient satisfaction, and optimizing the intake process in hospitals through a user-friendly mobile application. Currently working on front-end development on flutter!
